@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>New.bmp</file>
+        <file>Open.bmp</file>
+        <file>Paste.bmp</file>
+        <file>Save.bmp</file>
+        <file>Sticky.bmp</file>
+        <file>Turtle.png</file>
+        <file>Copy.bmp</file>
+        <file>Cut.bmp</file>
+        <file>DeleteSticky.bmp</file>
+        <file>Highlight.bmp</file>
+    </qresource>
+</RCC>
